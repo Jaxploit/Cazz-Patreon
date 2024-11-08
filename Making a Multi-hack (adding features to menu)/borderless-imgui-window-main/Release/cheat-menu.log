@@ -1,0 +1,8 @@
+﻿  hacks.cpp
+  main.cpp
+  Generating code
+  101 of 1503 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    52 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cheat-menu.vcxproj -> C:\Users\calla\Desktop\borderless-imgui-window-main\Release\cheat-menu.exe
