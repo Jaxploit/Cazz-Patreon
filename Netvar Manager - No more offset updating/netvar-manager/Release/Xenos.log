@@ -1,0 +1,4 @@
+2022-01-14 22:57:18 *NORMAL*     Started on Windows 10.0.0.19041 x64. Driver status: 0xC0000225
+2022-01-14 22:57:43 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 6580, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-01-14 22:57:43 *CRITICAL*   Injecting image 'C:\Users\calla\Desktop\netvar-manager\Release\netvar-manager.dll'
+
