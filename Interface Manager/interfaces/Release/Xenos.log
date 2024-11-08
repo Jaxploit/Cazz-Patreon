@@ -1,0 +1,4 @@
+2022-01-08 21:36:48 *NORMAL*     Started on Windows 10.0.0.19041 x64. Driver status: 0xC0000225
+2022-01-08 21:37:34 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 3520, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-01-08 21:37:34 *CRITICAL*   Injecting image 'C:\Users\calla\Desktop\interfaces\Release\interfaces.dll'
+
