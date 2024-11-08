@@ -1,0 +1,8 @@
+2022-01-03 18:36:15 *NORMAL*     Started on Windows 10.0.0.19041 x64. Driver status: 0xC0000225
+2022-01-03 18:36:30 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12928, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-01-03 18:36:30 *CRITICAL*   Injecting image 'C:\Users\calla\Desktop\internal menu\build\internal menu.dll'
+
+2022-01-04 13:34:18 *NORMAL*     Started on Windows 10.0.0.19041 x64. Driver status: 0xC0000225
+2022-01-04 13:34:35 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 9692, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-01-04 13:34:35 *CRITICAL*   Injecting image 'C:\Users\calla\Desktop\internal menu\build\internal menu.dll'
+
